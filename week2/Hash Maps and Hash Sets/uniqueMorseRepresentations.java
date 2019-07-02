@@ -5,7 +5,7 @@ class Solution {
                 "..-","...-",".--","-..-","-.--","--.."};
         char[] alph ={'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
                 'q','r','s','t','u','v','w','x','y','z'};
-        ArrayList<String> tran = new ArrayList<String>();
+        Set<String> done = new HashSet<>(); 
         String temp;
         Boolean unique=true;
         
@@ -16,13 +16,9 @@ class Solution {
                     if(words[i].charAt(j)==alph[k])temp+=morse[k];
                 }
             }
-            for(int j=0;j<tran.size();j++){
-                if(tran.get(j).equals(temp)){
-                    unique=false;
-                }
-            }
-            if(unique)tran.add(temp);
+            if(!done.contains(temp))done.add(temp);
             else unique=true;
+            //System.out.println(done);
         }
         /*for(String t:words){//code written with for each loops which uses more memory
             temp="";
@@ -39,6 +35,6 @@ class Solution {
             if(unique)tran.add(temp);
             else unique=true;
         }*/
-        return tran.size();
+        return done.size();
     }
 }
