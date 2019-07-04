@@ -22,7 +22,7 @@ Week #2 Coding Exercises:
     https://leetcode.com/problems/groups-of-special-equivalent-strings/
     https://leetcode.com/problems/intersection-of-two-arrays/
     https://leetcode.com/problems/valid-sudoku/
-    https://leetcode.com/problems/isomorphic-strings/
+    *https://leetcode.com/problems/isomorphic-strings/**return* 
     https://leetcode.com/problems/word-pattern/
     https://leetcode.com/problems/design-hashmap/
     https://leetcode.com/problems/design-hashset/
@@ -31,7 +31,7 @@ Week #2 Coding Exercises:
     Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. 
     How do the two solutions compare?
     https://leetcode.com/problems/first-unique-character-in-a-string/
-    https://leetcode.com/problems/subdomain-visit-count/
+    *https://leetcode.com/problems/subdomain-visit-count/**return*
     https://leetcode.com/problems/find-the-difference/
     https://leetcode.com/problems/most-common-word/
     https://leetcode.com/problems/sort-characters-by-frequency/
