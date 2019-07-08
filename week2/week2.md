@@ -22,7 +22,7 @@ Week #2 Coding Exercises:
     https://leetcode.com/problems/groups-of-special-equivalent-strings/
     https://leetcode.com/problems/intersection-of-two-arrays/
     https://leetcode.com/problems/valid-sudoku/
-    *https://leetcode.com/problems/isomorphic-strings/**return* 
+    https://leetcode.com/problems/isomorphic-strings/
     https://leetcode.com/problems/word-pattern/
     https://leetcode.com/problems/design-hashmap/
     https://leetcode.com/problems/design-hashset/
@@ -31,19 +31,19 @@ Week #2 Coding Exercises:
     Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. 
     How do the two solutions compare?
     https://leetcode.com/problems/first-unique-character-in-a-string/
-    *https://leetcode.com/problems/subdomain-visit-count/**return*
-    https://leetcode.com/problems/find-the-difference/
+    https://leetcode.com/problems/subdomain-visit-count/
+    *https://leetcode.com/problems/find-the-difference/**return*
     https://leetcode.com/problems/most-common-word/
-    https://leetcode.com/problems/sort-characters-by-frequency/
+    https://leetcode.com/problems/sort-characters-by-frequency/*too long run time*
     https://leetcode.com/problems/set-mismatch/
     This one has a few “clever” solutions but feel free to use a simple multiset solution.
-    https://leetcode.com/problems/number-of-atoms/
+    *https://leetcode.com/problems/number-of-atoms/**return*
     This one is more difficult than the average interview question but it is good exercise! 
     You will need to build a simple parser in addition to using a multiset.
   Tries
-    https://leetcode.com/problems/longest-word-in-dictionary
-    https://leetcode.com/problems/implement-trie-prefix-tree
-    https://leetcode.com/problems/word-search-ii
+    *https://leetcode.com/problems/longest-word-in-dictionary*
+    *https://leetcode.com/problems/implement-trie-prefix-tree*
+    *https://leetcode.com/problems/word-search-ii*
     
 Resources
   Python Resources
