@@ -33,7 +33,7 @@ Week #3 Coding Exercises
 	Sorting
 		https://leetcode.com/problems/valid-anagram
 		https://leetcode.com/problems/array-partition-i
-		https://leetcode.com/problems/merge-intervals
+		*https://leetcode.com/problems/merge-intervals**attempted, not yet finished*
 		Use sorting, not a multiset (you solved this problem using a multiset last week) 
 		https://leetcode.com/problems/find-all-anagrams-in-a-string
 
