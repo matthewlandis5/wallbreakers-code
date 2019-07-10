@@ -40,7 +40,7 @@ Week #3 Coding Exercises
 	Recursion and memoization: make sure you use memoization if applicable for the problems below
 		https://leetcode.com/problems/powx-n
 		https://leetcode.com/problems/best-time-to-buy-and-sell-stock
-		https://leetcode.com/problems/edit-distance
+		*https://leetcode.com/problems/edit-distance**nope*
 		https://leetcode.com/problems/house-robber-ii
 		Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
 
