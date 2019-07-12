@@ -24,7 +24,7 @@ Week #3 Coding Exercises
 		https://leetcode.com/problems/assign-cookies
 		https://leetcode.com/problems/is-subsequence
 		*https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons**learn greedy before*
-		*https://leetcode.com/problems/partition-labels*
+		https://leetcode.com/problems/partition-labels
 
 	Binary search
 		https://leetcode.com/problems/binary-search
@@ -33,7 +33,7 @@ Week #3 Coding Exercises
 	Sorting
 		https://leetcode.com/problems/valid-anagram
 		https://leetcode.com/problems/array-partition-i
-		*https://leetcode.com/problems/merge-intervals**attempted, not yet finished*
+		https://leetcode.com/problems/merge-intervals
 		Use sorting, not a multiset (you solved this problem using a multiset last week) 
 		https://leetcode.com/problems/find-all-anagrams-in-a-string
 
@@ -42,13 +42,13 @@ Week #3 Coding Exercises
 		https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 		*https://leetcode.com/problems/edit-distance**nope*
 		https://leetcode.com/problems/house-robber-ii
-		Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
+		Do not use a built-in regex for this one: *https://leetcode.com/problems/regular-expression-matching/**hard*
 
 	Dynamic Programming: same problems as above, but use dynamic programming this time
 		https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 		https://leetcode.com/problems/edit-distance
-		https://leetcode.com/problems/house-robber-ii
-		Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
+		*https://leetcode.com/problems/house-robber-ii**nope*
+		Do not use a built-in regex for this one: *https://leetcode.com/problems/regular-expression-matching/*
 
 Resources
 Video on greedy algorithms
