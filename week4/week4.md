@@ -36,7 +36,7 @@ Heaps
 	*https://leetcode.com/problems/top-k-frequent-elements*
 	https://leetcode.com/problems/merge-k-sorted-lists
 Combinatorial generation
-	https://leetcode.com/problems/subsets
+	*https://leetcode.com/problems/subsets*
 	https://leetcode.com/problems/permutations
 	https://leetcode.com/problems/combinations
 	https://leetcode.com/problems/generate-parentheses
