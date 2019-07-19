@@ -45,7 +45,7 @@ Backtracking
 	*https://leetcode.com/problems/combination-sum*
 	https://leetcode.com/problems/partition-equal-subset-sum
 	*https://leetcode.com/problems/partition-to-k-equal-sum-subsets*
-	https://leetcode.com/problems/sudoku-solver
+	*https://leetcode.com/problems/sudoku-solver*
 	
 	
 Resources
