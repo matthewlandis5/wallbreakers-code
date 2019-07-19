@@ -39,12 +39,12 @@ Combinatorial generation
 	*https://leetcode.com/problems/subsets*
 	https://leetcode.com/problems/permutations
 	https://leetcode.com/problems/combinations
-	https://leetcode.com/problems/generate-parentheses
-	https://leetcode.com/problems/gray-code
+	*https://leetcode.com/problems/generate-parentheses*
+	*https://leetcode.com/problems/gray-code*
 Backtracking
-	https://leetcode.com/problems/combination-sum
+	*https://leetcode.com/problems/combination-sum*
 	https://leetcode.com/problems/partition-equal-subset-sum
-	https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+	*https://leetcode.com/problems/partition-to-k-equal-sum-subsets*
 	https://leetcode.com/problems/sudoku-solver
 	
 	
